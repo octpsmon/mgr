@@ -2,7 +2,7 @@ Eng. version.
 # Master's Thesis
 An algorithm for automatic ultrasonographic image segmentation; with an interface for counting tumor area and its vascularization without the need for manually outlining its mask.
 
-Repository includes two approaches to automatic segmentation of ultrasound images from small animals: deep learning and non-deep learning. High-resolution ultrasound data used for training and testing were obtained by Agnieszka Drzał (Jagiellonian University). A. Drzał is the author of the initial program for quantitative analysis of tumors - version requiring manual segmenting.
+Repository includes two approaches to automatic segmentation of ultrasound images from small animals: deep learning and non-deep learning. High-resolution ultrasound data used for training and testing were obtained by Agnieszka Drzał (Jagiellonian University). A. Drzał provided the initial program for quantitative analysis of tumors - version requiring manual segmenting.
 
 <img width="934" alt="image" src="https://github.com/octpsmon/mgr/assets/78450868/4d4563fa-dbaa-45e4-b34f-1e4c299551e5">
 
@@ -34,7 +34,7 @@ Fig. 4. Results from segmentation based on Normalized Cut (NC) with Detail Prese
 Algorytm do automatycznej segmentacji obrazu utrasonograficznego;
 z interfejsem do zliczania powierzchni guza i jego unaczynienia bez konieczności ręcznego obrysowywania jego maski.
 
-Zawiera dwa podejścia do automatycznej segmentacji obrazu z ultrasonografii małych zwierząt: deep-learningowe oraz non-deep-learning. Dane z USG wysokiej rozdzielczości użyte do trenowania i testów uzyskała Agnieszka Drzał (Uniwersytet Jagielloński). A. Drzał jest autorką wyjściowej wersji programu do analizy ilościowej guzów - w wersji do manualnego oznaczania.
+Zawiera dwa podejścia do automatycznej segmentacji obrazu z ultrasonografii małych zwierząt: deep-learningowe oraz non-deep-learning. Dane z USG wysokiej rozdzielczości użyte do trenowania i testów uzyskała Agnieszka Drzał (Uniwersytet Jagielloński). Wyjściowy program do analizy ilościowej guzów - w wersji do manualnego oznaczania - udostępniła p. A. Drzał.
 
 <img width="934" alt="image" src="https://github.com/octpsmon/mgr/assets/78450868/4d4563fa-dbaa-45e4-b34f-1e4c299551e5">
 
