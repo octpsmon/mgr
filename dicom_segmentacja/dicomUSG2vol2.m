@@ -1,6 +1,4 @@
 function dicomUSG2vol2
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 javax.swing.UIManager.setLookAndFeel('com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel');
 format long;
 
